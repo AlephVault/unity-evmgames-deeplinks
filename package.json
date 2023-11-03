@@ -1,0 +1,16 @@
+{
+  "name": "com.alephvault.unity.evmgames.deeplinks",
+  "version": "0.0.1",
+  "displayName": "Aleph Vault - Unity - EVMGames.DeepLinks",
+  "description": "Utilities to process certain (own design) application deep links that interact with standard token smart contracts.",
+  "unity": "2023.1",
+  "dependencies": {
+    "com.alephvault.unity.deeplinks": "0.0.1",
+    "com.alephvault.unity.evmgames": "0.0.2",
+  },
+  "author": {
+    "name": "Aleph Vault",
+    "email": "info@alephvault.com",
+    "url": "http://www.alephvault.com"
+  }
+}
